@@ -1,5 +1,5 @@
 {
-    "name": "google/apiclient-forked",
+    "name": "google/apiclient",
     "type": "library",
     "description": "Client library for Google APIs",
     "keywords": ["google"],
